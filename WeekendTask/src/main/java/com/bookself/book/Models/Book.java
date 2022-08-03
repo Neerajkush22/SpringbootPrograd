@@ -15,4 +15,7 @@ public class Book {
     private String bookName;
     @Column
     private String authorName;
+    @Column
+    private int price;
+
 }
