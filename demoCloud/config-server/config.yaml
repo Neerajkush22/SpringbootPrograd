@@ -1,0 +1,5 @@
+my:
+greeting: hi from config
+server:
+list: 
+values: one,two,three
